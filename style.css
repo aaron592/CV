@@ -499,7 +499,7 @@ form input[type="submit"]:hover, form input[type="submit"]:focus, form button:ho
 .main-content .get-ebook h3 { color: #19b490; }
 .main-content .get-ebook input:not([type="submit"]) { width: 100%; }
 .main-content .get-ebook input[type="submit"] { position: absolute; bottom: -20px; width: 150px; left: 0; right: 0; margin: auto; }
-.main-content .entry-title { margin-top: 0; font-size: 50px;  line-height: 1; }
+.main-content .entry-title { margin-top: 0; font-size: 50px; font-size: 2.0625rem; line-height: 1; }
 .main-content .entry-subtitle { font-size: 24px; font-size: 1.5rem; color: #818891; }
 .main-content .leading { color: #19b490; }
 
