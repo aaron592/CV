@@ -1,10 +1,3 @@
-/*!
- * Project_Name: Themezy Ebook Lander
- * Author: Themezy
- * Email: info@themezy.com
- * URL: http://themezy.com
- */
-/*===========================================  Importing CSS Libraries ===========================================*/
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary { display: block; }
 
 audio, canvas, video { display: inline-block; }
@@ -25,7 +18,7 @@ a:hover, a:active { outline: 0; }
 
 #image{
 border-radius:50%;
-width:200px;
+width:150px;
 height:auto;
 }
 
@@ -491,7 +484,7 @@ form input[type="submit"]:hover, form input[type="submit"]:focus, form button:ho
 #branding { float: left; }
 #branding .branding-copy, #branding .logo { display: inline-block; vertical-align: middle; }
 #branding .logo { margin-right: 10px; }
-#branding #site-title { font-size: 25px;  margin: 0; padding-left:300px; }
+#branding #site-title { font-size: 25px;  margin: 0;  }
 #branding .#site-title a { color: inherit; }
 #branding .site-description { font-size: 11px; font-size: 0.6875rem; text-transform: uppercase; }
 
@@ -534,3 +527,6 @@ form input[type="submit"]:hover, form input[type="submit"]:focus, form button:ho
 
 .company-info { margin-bottom: 20px; }
 .company-info span { border-right: 1px solid #a1a1a1; display: inline-block; padding: 0 10px; line-height: 20px; }
+.entry-subtitles{
+	font-size:1rem;
+}
